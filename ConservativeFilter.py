@@ -4,7 +4,6 @@ Created on Mon Mar  2 10:27:33 2020
 
 @author: Abubakar
 """
-hahahahhahahahahah
 import imageio as im
 import matplotlib.pyplot as plt
 import numpy as np
